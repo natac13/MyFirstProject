@@ -155,3 +155,5 @@ print "Therefore I need a conductor good for %r Amps while running %r parallel r
 
 end = time.time() - start
 print "Time for calculations: %r" % end
+
+##testing##
