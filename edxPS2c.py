@@ -1,3 +1,12 @@
+'''
+Does the same as PS2b, which is return the min monthly payment to pay off debt in one year
+Difference is that I use bi-sectional search 
+This allows for larger searches.
+
+returns: integer which is the minimun monthly payment of any amonut
+'''
+
+
 balance = float(raw_input("Balance?? "))
 annualInterestRate = float(raw_input("Annual Interest, as decimal: "))
 
