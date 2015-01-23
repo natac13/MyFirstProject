@@ -1,3 +1,9 @@
+'''
+Given a string count the times 'bob' appears, including overlapping
+
+returns: integer value
+'''
+
 s = 'yobobozbobobobbobbobobobobobbobbobobobobbyoa'
 
  
