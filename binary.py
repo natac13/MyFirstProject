@@ -16,4 +16,3 @@ while True:
 		
 		
 		
-##### cs.furman.edu/digitaldomain/more/ch6/dec_frac_to_bin.htm
