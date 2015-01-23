@@ -1,3 +1,11 @@
+'''
+Calculate the credit card balance after one year if a person only pays the minimum monthly payment
+required by the credit card company each month.
+
+returns: integer of both the amount paid and left over balance
+'''
+
+
 balance = float(raw_input("Your credit card balance: "))
 annualInterestRate = float(raw_input("Annual interest rate as a decimal: "))
 monthlyPaymentRate = float(raw_input("Minimum monthly payment rate as a decimal: "))
