@@ -1,3 +1,8 @@
+'''
+Just my attempt at a binary converter
+Will not work with decimals
+'''
+
 def binary_converter(x):
 	assert x > 0
 	binary = ''
