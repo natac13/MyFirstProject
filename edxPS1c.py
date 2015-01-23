@@ -1,5 +1,4 @@
-def alpha(x, y):
-	return y > x
+
 	
 s = 'vfcnifdnkgdfnjkfdujfsdnnabckfdriemikvgmabdfhil'
 
