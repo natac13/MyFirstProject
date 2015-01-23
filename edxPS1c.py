@@ -1,4 +1,8 @@
+'''
+prints the longest substring of s in which the letters occur in alphabetical order.
 
+This one was difficult for me!
+'''
 	
 s = 'vfcnifdnkgdfnjkfdujfsdnnabckfdriemikvgmabdfhil'
 
