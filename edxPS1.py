@@ -1,3 +1,9 @@
+'''
+The problem was to count vowels in a given string
+
+returns: integer
+'''
+
 s = 'string of characters to check for vowels'
 
 count = 0
