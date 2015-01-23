@@ -9,3 +9,8 @@ Read that I should not be afraid to put my code up for inspection as this will h
 
 I look forward to hearing input, good, or bad lol
 However I will say I am not completely sure how to use github and Git yet so I hope I am doing things 'right'!
+
+
+After posting my profile to the edx forums it was suggested I add a docstring about what each file does or 
+what the problem was asking.
+I have gone ahead and done this, with the hope that is it not too far out of sync with the PEP 8 style guide!
