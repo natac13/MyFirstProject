@@ -1,3 +1,5 @@
+'''My couple attempts to make a function to check if a number is prime'''
+
 
 import math
 
