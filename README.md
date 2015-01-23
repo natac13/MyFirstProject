@@ -1,2 +1,2 @@
 # MyFirstProject
-making a change
+Just starting and trying to figure everything out!
