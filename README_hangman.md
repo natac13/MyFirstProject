@@ -32,10 +32,3 @@ which was made for the edX 6.00 course that I am taking.
     stupid to have it in both place but I cant figure out how to 
     make this 'prettier'
     
-## 
-    Really trying to understand the work flow part of git 
-    Not being successful!
-    Have done both a clone of a repo and the branch of the master 
-    but I cant seem to figure out how it works other then making a new file
-    and then not leetting me merge it back in
-    OR at least I cannot figur it out

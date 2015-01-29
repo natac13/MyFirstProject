@@ -4,10 +4,12 @@
 #
 
 # -----------------------------------
-# Helper code
-# You don't need to understand this helper code,
-# but you will have to know how to use the functions
-# (so be sure to read the docstrings!)
+''' this is a game of hangman, very simple!
+    there is a list of words added and then randomly selected,
+    at which point the game starts.
+    8 guesses, with no chance to guess the word,
+    I point that out since I changed tht in my version of the game
+    '''
 
 import random
 import string
